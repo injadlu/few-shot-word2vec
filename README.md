@@ -1,7 +1,7 @@
 # imagenet-words
-words for ImageNet classes
+we release words for ImageNet classes
 
-words for few-shot learning dataset classes (mini-ImageNet and tiered-ImageNet)
+and words for few-shot learning dataset classes (mini-ImageNet and tiered-ImageNet)
 
 tiered-ImageNet, [dataset](https://github.com/renmengye/few-shot-ssl-public) [paper](https://arxiv.org/abs/1803.00676)
 
