@@ -7,4 +7,4 @@ tiered-ImageNet,  [dataset](https://github.com/renmengye/few-shot-ssl-public)  [
 
 mini-ImageNet,  [dataset](https://github.com/twitter-research/meta-learning-lstm/)  [paper](https://arxiv.org/pdf/1606.04080.pdf)
 
-[few-shot learning leaderboard](https://fewshot.org/miniimagenet.html)
+[few-shot classification leaderboard](https://fewshot.org/miniimagenet.html)
